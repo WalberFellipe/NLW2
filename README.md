@@ -4,7 +4,7 @@
 
 > Projeto de desenvolvimento de um ambiente tanto para professor dar suas aulas quanto para alunos que possam receber essas aulas.
 
-### 🏠 [Homepage](github.com/WalberFellipe/NLW2)
+### 🏠 [Homepage](https://github.com/WalberFellipe/NLW2)
 
 ## Install
 
