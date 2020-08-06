@@ -19,6 +19,10 @@ npm install
 npm start
 ```
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
 ## Author
 
 👤 **Walber Fellipe**
