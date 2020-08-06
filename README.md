@@ -25,9 +25,9 @@ $ cd nlw2
 
 # Go to the web folder
 $ cd web
+```
 
-# Install the dependencies
-## Install
+## Install the dependencies
 
 ```sh
 npm install
@@ -40,12 +40,6 @@ npm start
 ```
 
 # Server will start on the port:3333 - link <http://localhost:3333>
-```
-
-
-
-
-
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Building...  🚧
@@ -64,7 +58,7 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-👤 ### Author
+👤 Author
 ---
 
 Feito por Walber Fellipe
