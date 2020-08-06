@@ -61,7 +61,7 @@ The following tools were used in the construction of the project:
 👤 Author
 ---
 
-Feito por Walber Fellipe
+made by [Walber Fellipe](https://github.com/WalberFellipe)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Walber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
 [![Gmail Badge](https://img.shields.io/badge/-walberfellipe18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberfellipe18@gmail.com)](mailto:walberfellipe18@gmail.com)
