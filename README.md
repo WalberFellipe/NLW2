@@ -7,6 +7,26 @@
 
 ### 🏠 [Homepage](https://github.com/WalberFellipe/NLW2)
 
+### Prerequisite
+
+Before you begin, you will need to have the following tools installed on your machine:
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Running the application
+
+
+```bash
+Clone this repository
+$ git clone <https://github.com/WalberFellipe/NLW2>
+
+# Access the project folder in the / cmd terminal
+$ cd nlw2
+
+# Go to the web folder
+$ cd web
+
+# Install the dependencies
 ## Install
 
 ```sh
@@ -19,16 +39,38 @@ npm install
 npm start
 ```
 
+# Server will start on the port:3333 - link <http://localhost:3333>
+```
+
+
+
+
+
+
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  React Select 🚀 Building...  🚧
 </h4>
+
+### 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Yarn](https://classic.yarnpkg.com/pt-BR/docs/)
 
 ## Author
 
-👤 **Walber Fellipe**
+👤 ### Author
+---
 
-* Github: [@WalberFellipe](https://github.com/WalberFellipe)
-* LinkedIn: [@Walber Fellipe](https://www.linkedin.com/in/walber-fellipe-579549165/)
+Feito por Walber Fellipe
+
+[![Linkedin Badge](https://img.shields.io/badge/-Walber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
+[![Gmail Badge](https://img.shields.io/badge/-walberfellipe18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberfellipe18@gmail.com)](mailto:walberfellipe18@gmail.com)
 
 ## Show your support
 
