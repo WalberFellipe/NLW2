@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Welcome to Next Level Week #2 👋</h1>
 <p>
   <a href="github.com/WalberFellipe/NLW2#readme" target="_blank">
@@ -5,7 +6,7 @@
   </a>
 </p>
 
-> Projeto de desenvolvimento de um ambientetanto para professor dar suas aulas quanto para alunos que possam receber essas aulas.
+> Projeto de desenvolvimento de um ambiente tanto para professor dar suas aulas quanto para alunos que possam receber essas aulas.
 
 ### 🏠 [Homepage](github.com/WalberFellipe/NLW2)
 
@@ -34,3 +35,6 @@ Give a ⭐️ if this project helped you!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+# NLW2
+>>>>>>> 16771e60858852849395067cf96143a6087b2c1f
