@@ -2,7 +2,8 @@
 <h1 align="center">Welcome to Next Level Week #2 👋</h1>
 
 
-> Projeto de desenvolvimento de um ambiente tanto para professor dar suas aulas quanto para alunos que possam receber essas aulas.
+> Project to develop an environment for both the teacher to teach his classes and the students who can receive those classes
+.
 
 ### 🏠 [Homepage](https://github.com/WalberFellipe/NLW2)
 
