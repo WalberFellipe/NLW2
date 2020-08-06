@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1 align="center">Welcome to Next Level Week #2 👋</h1>
+<h1 align="center">Welcome to Proffy 👋</h1>
 
 
 > Project to develop an environment for both the teacher to teach his classes and the students who can receive those classes
