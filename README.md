@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 <h1 align="center">Welcome to Next Level Week #2 👋</h1>
-<p>
-  <a href="github.com/WalberFellipe/NLW2#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-</p>
+
 
 > Projeto de desenvolvimento de um ambiente tanto para professor dar suas aulas quanto para alunos que possam receber essas aulas.
 
@@ -27,7 +23,7 @@ npm start
 👤 **Walber Fellipe**
 
 * Github: [@WalberFellipe](https://github.com/WalberFellipe)
-* LinkedIn: [@Walber Fellipe](https://linkedin.com/in/Walber Fellipe)
+* LinkedIn: [@Walber Fellipe](https://www.linkedin.com/in/walber-fellipe-579549165/)
 
 ## Show your support
 
