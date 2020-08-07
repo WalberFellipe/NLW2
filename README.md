@@ -61,7 +61,9 @@ The following tools were used in the construction of the project:
 👤 Author
 ---
 
-made by [Walber Fellipe](https://github.com/WalberFellipe)
+<a><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/51340360?s=460&u=9edfb8c41900d8ff429b4daeb31f3fae8a397a18&v=4" width="100px;" alt="">
+	
+<b>Made by [Walber Fellipe](https://github.com/WalberFellipe)</b></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Walber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-fellipe-579549165/)](https://www.linkedin.com/in/walber-fellipe-579549165/) 
 [![Gmail Badge](https://img.shields.io/badge/-walberfellipe18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberfellipe18@gmail.com)](mailto:walberfellipe18@gmail.com)
