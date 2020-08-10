@@ -1,4 +1,4 @@
-<<<<<< NEXT LEVEL WEEK #2
+<<<<<< NEXT LEVEL WEEK #2 by Rocket Seat
 <h1 align="center">Welcome to Proffy 👋</h1>
 
 
