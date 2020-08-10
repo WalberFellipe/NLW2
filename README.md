@@ -23,20 +23,29 @@ $ git clone <https://github.com/WalberFellipe/NLW2>
 # Access the project folder in the / cmd terminal
 $ cd nlw2
 
+##TO RUN SERVER
+
+# Go to the server folder
+$ cd server
+
+##TO RUN WEB
+
 # Go to the web folder
 $ cd web
+
+##THAN
 ```
 
 ## Install the dependencies
 
 ```sh
-npm install
+npm install or yarn install
 ```
 
 ## Usage
 
 ```sh
-npm start
+npm start or yarn start
 ```
 
 ### Server will start on the port:3000 - [Access](http://localhost:3000)
