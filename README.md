@@ -62,7 +62,7 @@ The following tools were used in the construction of the project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/docs)
 - [Yarn](https://classic.yarnpkg.com/pt-BR/docs/)
 - [Knex](http://knexjs.org/)
 
